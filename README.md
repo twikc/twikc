@@ -1,4 +1,5 @@
 ### Hi there 👋
+Twikc is a social media network where users can share images, text, video, audio (something you can't do on any other social media), introduction of users. Ability to download the media files being shared. Due to prioritizing your social health, we removed like counts. There's no algorithm. We have Twikc Connect, if you are a plumber of electrician and you signup for Twikc Connect, we connect you to cutomers in which can help reduce poverty in the society.
 
 <!--
 **twikc/twikc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
